@@ -1,2 +1,2 @@
 # snippet
-use code snippet
+useful code snippet
